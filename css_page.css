@@ -1,0 +1,21 @@
+* {
+  border: solid black;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+span {
+  color: orange;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: orange;
+  text-decoration: none;
+}
